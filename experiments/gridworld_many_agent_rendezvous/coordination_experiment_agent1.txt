@@ -1,0 +1,6 @@
+0 # initial state
+(0,1,'a',0) # Agent moves onto wait space
+(1,2,'b',1) # Agent moves off wait space too early
+(2,3,'c',1) # Agent gets go-ahead to proceed
+(3,4,'d',1) # Agent reaches goal
+(4,4,'True',0)
